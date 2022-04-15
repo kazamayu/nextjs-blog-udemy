@@ -34,7 +34,7 @@ export default function Home({ allPostData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>最近いろんなやる気がおきません。</p>
+        <p>Web言語って難しい</p>
       </section>
 
       <section>
